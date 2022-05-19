@@ -1,0 +1,548 @@
+index,Country,Confucius Institute,Location,Status
+0,Afghanistan,Confucius Institute (Chinese Department) at Kabul University,kabul university,Closed
+1,Albania,Confucius Institute at University of Tirana,university of tirana,Closed
+2,Angola,Confucius Institute at Agostinho Neto University,agostinho neto university,Closed
+3,Antigua and Barbuda,Confucius Institute at Antigua and Barbuda,antigua and barbuda,Closed
+4,Argentina,Confucius Institute at the University of Buenos Aires,the university of buenos aires,Closed
+5,Argentina,Confucius Institute at the National University of La Plata,the national university of la plata,Closed
+6,Argentina,Confucius Institute at National University of Cordoba,national university of cordoba,Closed
+7,Armenia,Confucius Institute at Yerevan Brusov State University of Languages and Social Sciences,yerevan brusov state university of languages and social sciences,Closed
+8,Australia,Confucius Institute at the University of Western Australia,the university of western australia,Closed
+9,Australia,Confucius Institute at the University of Melbourne,the university of melbourne,Closed
+10,Australia,Confucius Institute at the University of Adelaide,the university of adelaide,Closed
+11,Australia,Confucius Institute at the University of Queensland,the university of queensland,Open
+12,Australia,Confucius Institute at Queensland University of Technology,queensland university of technology,Closed
+13,Australia,Confucius Institute at the University of Sydney,the university of sydney,Closed
+14,Australia,Confucius Institute at the University of New South Wales,the university of new south wales,Closed
+15,Australia,Chinese Medicine Confucius Institute at Royal Melbourne Institute of Technology,royal melbourne institute of technology,Open
+16,Australia,Confucius Institute at the University of Newcastle,the university of newcastle,Open
+17,Australia,Confucius Institute at Charles Darwin University,charles darwin university,Closed
+18,Australia,Confucius Institute at New South Wales Department of Education,new south wales department of education,Closed
+19,Australia,Business Confucius Institute at Victoria University,victoria university,Closed
+20,Australia,Tourism Confucius Institute at Griffith University,griffith university,Open
+21,Australia,Confucius Institute at La Trobe University,la trobe university,Closed
+22,Austria,Confucius Institute at the University of Vienna,the university of vienna,Open
+23,Austria,Confucius Institute at University of Graz,university of graz,Open
+24,Azerbaijan,Confucius Institute at Baku State University,baku state university,Open
+25,Azerbaijan,Confucius Institute at Azerbaijan University of Languages,azerbaijan university of languages,Closed
+26,Bahamas,Confucius Institute at University of The Bahamas,university of the bahamas,Closed
+27,Bahrain,Confucius Institute at University of Bahrain,university of bahrain,Closed
+28,Bangladesh,Confucius Institute at North South University,north south university,Closed
+29,Bangladesh,Confucius Institute at University of Dhaka,university of dhaka,Closed
+30,Barbados,"Confucius Institute at the University of the West Indies, Cave Hill Campus","the university of the west indies, cave hill campus",Open
+31,Belarus,Republican Confucius Institute of Sinology at Belarusian State University,belarusian state university,Closed
+32,Belarus,Confucius Institute at Minsk State Linguistic University,minsk state linguistic university,Closed
+33,Belarus,Confucius Institute on Science and Technology at Belarusian National Technical University,belarusian national technical university,Closed
+34,Belarus,Confucius Institute at Francisk Skorina Gomel State University,francisk skorina gomel state university,Closed
+35,Belarus,Confucius Institute at Brest State named after A.S. Pushkin University,brest state named after a.s. pushkin university,Closed
+36,Belarus,Confucius Institute at Belarusian State University of Physical Culture,belarusian state university of physical culture,Closed
+37,Belgium,Confucius Institute in Brussels,None,Closed
+38,Belgium,Confucius Institute in Liege,None,Closed
+39,Belgium,Confucius Institute at University College West Flanders,university college west flanders,Closed
+40,Belgium,Confucius Institute at Group T-International Engineering Academy-University of Leuven,group t-international engineering academy-university of leuven,Closed
+41,Belgium,Confucius Institute at ULB,Universite Libre de Bruxelles,Closed
+42,Belgium,Confucius Institute at VUB,Vrije Universiteit Brussel,Closed
+43,Benin,Confucius Institute at University of Abomey-Calavi,university of abomey-calavi,Closed
+44,Bolivia,Confucius Institute at the University of San Simon,the university of san simon,Closed
+45,Bosnia and Herzegovina,Confucius Institute at University of Sarajevo,university of sarajevo,Closed
+46,Bosnia and Herzegovina,Confucius Institute at University of Banja Luka,university of banja luka,Closed
+47,Botswana,Confucius Institute at the University of Botswana,the university of botswana,Closed
+48,Brazil,Confucius Institute at Sao Paulo State University,sao paulo state university,Open
+49,Brazil,Business Confucius Institute at FAAP,Armando Alvares Penteado Foundation,Closed
+50,Brazil,Confucius Institute at the Federal University of Minas Gerais,the federal university of minas gerais,Open
+51,Brazil,Confucius Institute at the University of Pernambuco,the university of pernambuco,Closed
+52,Brazil,Confucius Institute at Federal University of Rio Grande Do Sul,federal university of rio grande do sul,Open
+53,Brazil,Confucius Institute at University of Brasilia,university of brasilia,Closed
+54,Brazil,Confucius Institute at Pontifical Catholic University of Rio de Janeiro,pontifical catholic university of rio de janeiro,Open
+55,Brazil,Confucius Institute at the State University of Campinas,the state university of campinas,Closed
+56,Brazil,Confucius Institute at the State University of Para,the state university of para,Closed
+57,Brazil,Confucius Institute at the Federal University of Ceara,the federal university of ceara,Closed
+58,Brazil,Confucius Institute of Chinese Medicine at the Federal University of Goias,the federal university of goias,Closed
+59,Bulgaria,Confucius Institute in Sofia,None,Closed
+60,Bulgaria,Confucius Institute at St. Cyril and St. Methodius University of Veliko Turnovo,st. cyril and st. methodius university of veliko turnovo,Open
+61,Burkina Faso,Confucius Institute at Bobo-Dioulasso Polytechnic University,bobo-dioulasso polytechnic university,Closed
+62,Burundi,Confucius Institute at the University of Burundi,the university of burundi,Closed
+63,Cambodia,Confucius Institute of Royal Academy of Cambodia,Royal Academy of Cambodia,Closed
+64,Cambodia,Confucius Institute at University of Battambang,university of battambang,Closed
+65,Cameroon,Confucius Institute at the University of Yaounde,the university of yaounde,Closed
+66,Canada,Confucius Institute at University of Regina,university of regina,Open
+67,Canada,Confucius Institute at BCIT,British Columbia Institute of Technology,Closed
+68,Canada,Confucius Institute in Coquitlam,"Coquitlam, Canada",Closed
+69,Canada,Confucius Institute in Waterloo,"Waterloo, Canada",Closed
+70,Canada,Confucius Institute in Quebec,"Quebec, Canada",Closed
+71,Canada,Confucius Institute in New Brunswick,"New Brunswick, Canada",Open
+72,Canada,Confucius Institute in Edmonton,"Edmonton, Canada",Open
+73,Canada,Confucius Institute at Brock University,brock university,Open
+74,Canada,Confucius Institute at Carleton University,carleton university,Closed
+75,Canada,Confucius Institute at Saint Mary's University,saint mary's university,Closed
+76,Canada,Confucius Institute at Seneca College,seneca college,Open
+77,Canada,Confucius Institute at University of Saskatchewan,university of saskatchewan,Open
+78,Cape Verde,Confucius Institute at University of Cabo Verde,university of cabo verde,Closed
+79,Central African Republic,Confucius Institute at University of Bangui,university of bangui,Closed
+80,Chad,Confucius Institute at University of N'Djamena,university of n'djamena,Closed
+81,Chile,Confucius Institute at University of Saint Thomas,university of saint thomas,Open
+82,Chile,Confucius Institute at Catholic University,catholic university,Open
+83,Chile,Confucius Institute at the University of La Frontera,the university of la frontera,Closed
+84,Colombia,Confucius Institute in Medellin,"Medellin, Colombia",Closed
+85,Colombia,Confucius Institute at the University of Los Andes,the university of los andes,Closed
+86,Colombia,Confucius Institute at Jorge Tadeo Lozano University,jorge tadeo lozano university,Closed
+87,Comores,Confucius Institute at University of Comoros,university of comoros,Closed
+88,Congo,Confucius Institute at University of Marien NGOUABI,university of marien ngouabi,Closed
+89,Costa Rica,Confucius Institute at the University of Costa Rica,the university of costa rica,Closed
+90,Croatia,Confucius Institute at University of Zagreb,university of zagreb,Closed
+91,Cuba,Confucius Institute at the University of Havana,the university of havana,Closed
+92,Cyprus,Confucius Institute at University of Cyprus,university of cyprus,Closed
+93,Czech Republic,Confucius Institute at Palacky University,palacky university,Open
+94,Czech Republic,Confucius Institute at University of Finance and Administration,university of finance and administration,Closed
+95,Denmark,Confucius Institute at the Royal Danish Academy of Music,the royal danish academy of music,Closed
+96,Denmark,Confucius Institute at International Business Academy,international business academy,Closed
+97,Democratic People's Republic of Korea,Chinese Language Center at Pyongyang University of Foreign Studies,pyongyang university of foreign studies,Closed
+98,Ecuador,Confucius Institute at San Francisco University of Quito,san francisco university of quito,Open
+99,Egypt,Confucius Institute at Cairo University,cairo university,Closed
+100,Egypt,Confucius Institute at Suez Canal University,suez canal university,Open
+101,El Salvador,Confucius Institute at the University of El Salvador,the university of el salvador,Closed
+102,Equatorial Guinea,Confucius Institute at National University of Equatorial Guinea,national university of equatorial guinea,Closed
+103,Eritrea,Confucius Institute at National Board for Higher Education,national board for higher education,Closed
+104,Estonia,Confucius Institute at Tallinn University,tallinn university,Open
+105,Ethiopia,Confucius Institute at Technical & Vocational Education and Training Institute of Ethiopia,technical & vocational education and training institute of ethiopia,Closed
+106,Ethiopia,Confucius Institute at Addis Ababa University,addis ababa university,Closed
+107,Fiji,Confucius Institute at the University of the South Pacific,the university of the south pacific,Closed
+108,Finland,Confucius Institute at the University of Helsinki,the university of helsinki,Open
+109,France,Confucius Institute at the University of Poitiers,the university of poitiers,Closed
+110,France,Confucius Institute at Paris Diderot University,paris diderot university,Open
+111,France,Confucius Institute of the Chinese Cultural Center in Paris,Chinese Cultural Center in Paris,Open
+112,France,Confucius Institute in Brittany,"Brittany, Fance",Closed
+113,France,Confucius Institute in La Rochelle,"La Rochelle, France",Closed
+114,France,Confucius Institute in Alsace,"Alsace, France",Closed
+115,France,Confucius Institute in Clermont-Ferrand,"Clermont-Ferrand, France",Closed
+116,France,Confucius Institute in Artois,"Artois, France",Closed
+117,France,Confucius Institute at Pays de la Loire,pays de la loire,Closed
+118,France,Confucius Institute at University of Lorraine,university of lorraine,Closed
+119,France,Confucius Institute at University of French Polynesia,university of french polynesia,Closed
+120,France,Confucius Institute in Montpellier,"Montpellier, France",Closed
+121,France,Confucius Institute of Reunion Island,"Reunion Island, France",Closed
+122,France,Neoma Confucius Institute for Business-Rouen,Neoma Business School,Closed
+123,France,Confucius Institute Cote d'Azur,"Cote d'Azur, France",Closed
+124,France,Confucius Institute at ESCP Europe,escp europe,Closed
+125,France,Confucius Institute at University of Orleans,university of orleans,Closed
+126,France,Confucius Institute at Pau,"Pau Pyrenees, France",Closed
+127,Gabon,Confucius Institute at Omar Bongo University,omar bongo university,Closed
+128,Gambia,Confucius Institute at University of the Gambia,university of the gambia,Closed
+129,Georgia,Confucius Institute at Free University of Tbilisi,free university of tbilisi,Open
+130,Georgia,Confucius Institute at Tbilisi Open Teaching University,tbilisi open teaching university,Closed
+132,Germany,Confucius Institute at the Free University of Berlin,the free university of berlin,Closed
+133,Germany,Confucius Institute at the University of Duesseldorf,the university of duesseldorf,Closed
+134,Germany,Confucius Institute in Nuremberg-Erlangen,"Nuremberg-Rerlangen, Germany",Open
+135,Germany,Confucius Institute at Frankfurt University,frankfurt university,Closed
+136,Germany,Confucius Institute at Heidelberg University,heidelberg university,Closed
+137,Germany,Confucius Institute at the University of Hamburg,the university of hamburg,Closed
+138,Germany,Leibniz-Confucius Institute Hannover,"Hannover, Germany",Closed
+139,Germany,Confucius Institute at the University of Leipzig,the university of leipzig,Open
+140,Germany,Confucius Institute in Munich,"Munich, Germany",Closed
+141,Germany,Confucius Institute in Bremen,"Bremen, Germany",Open
+142,Germany,Confucius Institute Metropole Ruhr at the University of Duisburg-Essen,the university of duisburg-essen,Open
+143,Germany,Confucius Institute at Erfurt University of Applied Sciences,erfurt university of applied sciences,Closed
+144,Germany,Confucius Institute at the University of Freiburg,the university of freiburg,Closed
+145,Germany,Confucius Institute at Trier University,trier university,Open
+146,Germany,Confucius Institute at University of Paderborn,university of paderborn,Closed
+147,Germany,Academic Confucius Institute at University of Gottingen,university of gottingen,Closed
+148,Germany,Confucius Institute at Fachhochschule Stralsund University of Applied Sciences,fachhochschule stralsund university of applied sciences,Closed
+149,Germany,Audi Ingolstadt Confucius Institute,"Audi Ingolstadt, Germany",Closed
+150,Germany,Confucius Institute Bonn,"Bonn, Germany",Closed
+151,Ghana,Confucius Institute at the University of Ghana,the university of ghana,Closed
+152,Ghana,Confucius Institute at the University of Cape Coast,the university of cape coast,Closed
+153,Greece,Business Confucius Institute in Athens,"Athens, Greece",Closed
+154,Greece,Confucius Institute at Aristotle University of Thessaloniki,aristotle university of thessaloniki,Closed
+155,Greece,Confucius Institute at University of Thessaly,university of thessaly,Closed
+156,Guinea,Confucius Institute at Gamal Abdel Nasser University of Conakry,gamal abdel nasser university of conakry,Closed
+157,Guyana,Confucius Institute at the University of Guyana,the university of guyana,Closed
+158,China,Confucius Institute of Hong Kong,China,Closed
+159,Hungary,Confucius Institute at Eotvos Lorand University,eotvos lorand university,Open
+160,Hungary,Confucius Institute at University of Szeged,university of szeged,Closed
+161,Hungary,Confucius Institute at University of Miskolc,university of miskolc,Closed
+162,Hungary,Confucius Institute for Traditional Chinese Medicine at University of Pecs,university of pecs,Open
+163,Hungary,Confucius Institute at University of Debrecen,university of debrecen,Open
+164,Iceland,Northern Light Confucius Institute,Unveristy of Iceland,Open
+165,India,Confucius Institute at University of Mumbai,university of mumbai,Open
+166,India,Confucius Institute at VIT University,vit university,Closed
+167,India,Chinese Language Teaching Center at Lovely Professional University,lovely professional university,Closed
+168,India,Taiwan Education Center at O.P. Global University,o.p. jindal global university,Closed
+169,India,School of Chinese Language in Kolkata,School of Chinese Language in Kolkata,Closed
+170,India,Bharathiar University,Bharathiar University,Closed
+171,India,"KR Mangalam University, Gurugram",KR Mangalam University,Closed
+172,India,Taiwan Education Center (TEC) at Chitkara University,chitkara university,Closed
+173,Indonesia,Mandarin Language Center (PBM) at University of Al Azhar Indonesia,university of al azhar indonesia,Closed
+174,Indonesia,Pusat Bahasa Mandarin at Universitas Negeri Malang,bahasa mandarin at universitas negeri malang,Closed
+175,Indonesia,Pusat Bahasa Mandarin at Maranatha Christian University,bahasa mandarin at maranatha christian university,Closed
+176,Indonesia,Pusat Bahasa Mandarin at Universitas Negeri Surabaya,bahasa mandarin at universitas negeri surabaya,Closed
+177,Indonesia,Pusat Bahasa Mandarin at Tanjungpura University,bahasa mandarin at tanjungpura university,Closed
+178,Indonesia,Pusat Bahasa Mandarin at Hasanuddin University,bahasa mandarin at hasanuddin university,Closed
+179,Indonesia,Confucius Institute at Universitas Sebelas Maret,universitas sebelas maret,Closed
+180,Indonesia,Tourism Confucius Institute at Udayana University,udayana university,Closed
+181,Iran,Confucius Institute at University of Tehran,university of tehran,Open
+182,Iran,Confucius Institute at the University of Mazandaran,the university of mazandaran,Closed
+183,Ireland,Confucius Institute at University College Cork in Ireland,university college cork in ireland,Closed
+184,Ireland,"Confucius Institute at University College Dublin, Ireland","university college dublin, ireland",Closed
+185,Ireland,Chinese and Regenerative Medicine Confucius Institute at National University of Ireland Galway,national university of ireland galway,Closed
+186,Israel,Confucius Institute at Tel Aviv University,tel aviv university,Open
+187,Israel,Confucius Institute at Hebrew University of Jerusalem,hebrew university of jerusalem,Closed
+188,Italy,Confucius Institute at Sapienza University of Rome,sapienza university of rome,Closed
+189,Italy,Confucius Institute at Oriental University of Napoli,oriental university of napoli,Closed
+190,Italy,Confucius Institute in Pisa,"Pisa, Italy",Open
+191,Italy,Confucius Institute at University of Turin,university of turin,Closed
+192,Italy,Confucius Institute at the University of Bologna,the university of bologna,Open
+193,Italy,Confucius Institute at the University of Florence,the university of florence,Open
+194,Italy,Confucius Institute at Ca' Foscari University of Venice,ca' foscari university of venice,Closed
+195,Italy,Confucius Institute at the University of Padova,the university of padova,Open
+196,Italy,Confucius Institute at the University of Milan,the university of milan,Closed
+197,Italy,Confucius Institute at Catholic University of the Sacred Heart,catholic university of the sacred heart,Closed
+198,Italy,Confucius Institute at University of Macerata,university of macerata,Closed
+199,Italy,Confucius Institute at University of Enna Kore,university of enna kore,Closed
+200,Ivory Coast,Confucius Institute at University of Felix Houphouette Boigny,university of felix houphouette boigny,Closed
+201,Jamaica,"Confucius Institute at the University of the West Indies, Mona Campus","the university of the west indies, mona campus",Closed
+202,Japan,Confucius Institute at Ritsumeikan,ritsumeikan,Open
+203,Japan,Confucius Institute at J. F. Oberlin University,j. f. oberlin university,Open
+204,Japan,Confucius Institute at Hokuriku University,hokuriku university,Open
+205,Japan,Confucius Institute at Aichi University,aichi university,Open
+206,Japan,Confucius Institute at Sapporo University,sapporo university,Open
+207,Japan,Confucius Institute at Ritsumeikan Asia Pacific University,ritsumeikan asia pacific university,Open
+208,Japan,Chinese Medicine Confucius Institute at Hyogo College of Medicine,hyogo college of medicine,Open
+209,Japan,Confucius Institute at Waseda University,waseda university,Closed
+210,Japan,Confucius Institute at Okayama Shoka University,okayama shoka university,Open
+211,Japan,Confucius Institute at Osaka Sangyo University,osaka sangyo university,Open
+212,Japan,Confucius Institute at Fukuyama University,fukuyama university,Closed
+213,Japan,Confucius Institute at Kogakuin University,kogakuin university,Closed
+214,Japan,Confucius Institute at Kansai Gaidai University,kansai gaidai university,Open
+215,Japan,Confucius Institute at Musashino University,musashino university,Open
+216,Japan,Confucius Institute at Yamanashi Gakuin University,yamanashi gakuin university,Closed
+217,Jordan,Amman TAG-Confucius Institute,"Amman, Jordan",Closed
+218,Jordan,Confucius Institute at Philadelphia University,philadelphia university,Closed
+219,Kazakhstan,Confucius Institute at L. N. Gumilyov Eurasian National University,l. n. gumilyov eurasian national university,Closed
+220,Kazakhstan,Confucius Institute at Kazakh National University,kazakh national university,Closed
+221,Kazakhstan,Confucius Institute at K. Zhubanov Aktobe Regional State University,k. zhubanov aktobe regional state university,Closed
+222,Kazakhstan,Confucius Institute at Karaganda State Technical University,karaganda state technical university,Closed
+223,Kazakhstan,Confucius Institute at Kazakh Ablai Khan University of International Relations and World Languages,kazakh ablai khan university of international relations and world languages,Closed
+224,Kenya,Confucius Institute at the University of Nairobi,the university of nairobi,Closed
+225,Kenya,Confucius Institute at Kenyatta University,kenyatta university,Closed
+226,Kenya,Confucius Institute at Egerton University,egerton university,Closed
+227,Kenya,Confucius Institute at Moi University,moi university,Closed
+228,South Korea,Confucius Institute at Woosuk University,woosuk university,Closed
+229,South Korea,Confucius Institute at Cheju Halla College,cheju halla college,Closed
+230,South Korea,Confucius Institute at the University of Incheon,the university of incheon,Open
+231,South Korea,Confucius Institute in Seoul,"Seoul, South Korea",Open
+232,South Korea,Confucius Institute at Woosong University,woosong university,Closed
+233,South Korea,Confucius Institute at Yonsei University,yonsei university,Open
+234,South Korea,Confucius Institute at Chungnam National University,chungnam national university,Closed
+235,South Korea,Confucius Institute at Dong-A University,dong-a university,Open
+236,South Korea,Confucius Institute at Dongseo University,dongseo university,Closed
+237,South Korea,Confucius Institute at Honam University,honam university,Closed
+238,South Korea,Confucius Institute at Chungbuk National University,chungbuk national university,Open
+239,South Korea,Confucius Institute at Kangwon National University,kangwon national university,Closed
+240,South Korea,Confucius Institute at Keimyung University,keimyung university,Open
+241,South Korea,Confucius Institute at Sehan University,sehan university,Closed
+242,South Korea,Confucius Institute at Andong National university,andong national university,Closed
+243,South Korea,Confucius Institute at Soon Chun Hyang University,soon chun hyang university,Closed
+244,South Korea,Confucius Institute at Daejin University,daejin university,Closed
+245,South Korea,Confucius Institute at Hankuk University of Foreign Studies,hankuk university of foreign studies,Open
+246,South Korea,Confucius Institute at Kyung Hee University,kyung hee university,Closed
+247,South Korea,Confucius Institute at Wonkwang University,wonkwang university,Closed
+248,South Korea,Confucius Institute at Semyung University,semyung university,Open
+249,South Korea,Confucius Institute at Hanyang University,hanyang university,Closed
+250,South Korea,Confucius Institute at Jeju National University,jeju national university,Closed
+251,Kyrgyzstan,Confucius Institute at Bishkek State University,bishkek state university,Closed
+252,Kyrgyzstan,Confucius Institute at Kyrgyz National University,kyrgyz national university,Closed
+253,Kyrgyzstan,Kyrgyz-Chinese Faculty at Osh State University,osh state university,Closed
+254,Kyrgyzstan,Confucius Institute at Jalal-Abad State University,jalal-abad state university,Open
+255,Laos,Confucius Institute at National University of Laos,national university of laos,Closed
+256,Laos,Confucius Institute at Souphanouvong University,souphanouvong university,Closed
+257,Latvia,Confucius Institute at University of Latvia,university of latvia,Closed
+258,Lebanon,Confucius Institute at Saint-Joseph University,saint-joseph university,Closed
+259,Liberia,Confucius Institute at the University of Liberia,the university of liberia,Closed
+260,Lithuania,Confucius Institute at Vilnius University,vilnius university,Closed
+261,Luxembourg,Confucius Institute at the University of Luxembourg,the university of luxembourg,Open
+262,Macedonia,Confucius Institute at SS Cyril and Methodius University,ss cyril and methodius university,Closed
+263,Macau,Confucius Institute at University of Macau,university of macau,Closed
+264,Madagascar,Confucius Institute at Antananarivo University,antananarivo university,Closed
+265,,Confucius Institute at Toamasina University,toamasina university,Closed
+266,Malaysia,Kong Zi Institute for the Teaching of Chinese Language at University of Malaya,university of malaya,Closed
+267,Malaysia,Confucius Institute at SEGI University,segi university,Closed
+268,Malaysia,Confucius Institute at Universiti Malaysia Sabah,universiti malaysia sabah,Closed
+269,Malaysia,Confucius Institute at Universiti Malaysia Pahang,universiti malaysia pahang,Closed
+270,Malaysia,Confucius Institute at University College of Technology Sarawak,university college of technology sarawak,Closed
+271,Malawi,Confucius Institute at University of Malawi,university of malawi,Closed
+272,Malta,Confucius Institute at the University of Malta,the university of malta,Closed
+273,Maldives,Chinese Language Center at Villa College,villa college,Closed
+274,Mali,Confucius Institute at University of Letters and Human Science of Bamako,university of letters and human science of bamako,Closed
+275,Mauritania,Confucius Institute at Nouakchott University,nouakchott university,Closed
+276,Mauritius,Confucius Institute at University of Mauritius,university of mauritius,Closed
+277,Mexico,Confucius Institute in Mexico City Huaxia,"Mexico City, Mexico",Closed
+278,Mexico,Confucius Institute at Autonomous University of New Leon,autonomous university of new leon,Closed
+279,Mexico,Confucius Institute at Autonomous University of Yucatan,autonomous university of yucatan,Closed
+280,Mexico,Confucius Institute at National Autonomous University of Mexico,national autonomous university of mexico,Closed
+281,Mexico,Confucius Institute at Autonomous University of Chihuahua,autonomous university of chihuahua,Closed
+282,Moldova,Confucius Institute at Free International University of Moldova,free international university of moldova,Closed
+283,Mongolia,Confucius Institute at National University of Mongolia,national university of mongolia,Open
+284,Mongolia,Confucius Institute at Mongolian State University of Education,mongolian state university of education,Open
+285,Mongolia,Confucius Institute at Khovd university,khovd university,Closed
+286,Mongolia,Confucius Institute at Dornod University,dornod university,Closed
+287,Morocco,Confucius Institute at Mohammed V University,mohammed v university,Closed
+288,Morocco,Confucius Institute at Hassan II University,hassan ii university,Closed
+289,Morocco,Confucius Institute at Abdelmalek Essaadi University,abdelmalek essaadi university,Closed
+290,Mozambique,Confucius Institute at Eduardo Mondlane University,eduardo mondlane university,Closed
+291,Namibia,Confucius Institute at the University of Namibia,the university of namibia,Closed
+292,Nepal,Confucius Institute at Kathmandu University,kathmandu university,Closed
+293,Nepal,Confucius Institute at Tribhuvan University,tribhuvan university,Closed
+294,Netherlands,Groningen Confucius Institute,"Groningen, Netherlands",Open
+295,Netherlands,Confucius Institute at ZUYD University of Applied Sciences,zuyd university of applied sciences,Closed
+296,New Zealand,Confucius Institute in Auckland,"Auckland, New Zealand",Closed
+297,New Zealand,Confucius Institute at University of Canterbury,university of canterbury,Closed
+298,New Zealand,Confucius Institute at Victoria University of Wellington,victoria university of wellington,Open
+299,Nigeria,Confucius Institute at the University of Lagos,the university of lagos,Closed
+300,Nigeria,Confucius Institute at Nnamdi Azikiwe University,nnamdi azikiwe university,Closed
+301,Norway,Confucius Institute in Bergen,"Bergen, Norway",Closed
+302,Pakistan,Confucius Institute in Islamabad,"Islamabad, Pakistan",Closed
+303,Pakistan,Confucius Institute at University of Karachi,university of karachi,Closed
+304,Pakistan,"Confucius Institute at University of Agriculture, Faisalabad","university of agriculture, faisalabad",Closed
+305,Pakistan,Confucius Institute at University of the Punjab,university of the punjab,Open
+306,Pakistan,Confucius Institute at University of Sargodha,university of sargodha,Closed
+307,Palestinian Territory,Confucius Institute at Al-Quds University,al-quds university,Open
+308,Panama,Confucius Institute at University of Panama,university of panama,Closed
+309,Papua New Guinea,Confucius Institute at Papua New Guinea University of Technology,papua new guinea university of technology,Closed
+311,Peru,Confucius Institute at Catholic University of Santa Maria,catholic university of santa maria,Closed
+312,Peru,Confucius Institute at University of Piura,university of piura,Open
+313,Peru,Confucius Institute at Catholic University of Peru,catholic university of peru,Open
+314,Peru,Confucius Institute at Ricardo Palma University,ricardo palma university,Closed
+315,Philippines,Confucius Institute at Ateneo de Manila University,ateneo de manila university,Closed
+316,Philippines,Confucius Institute at Bulacan State University,bulacan state university,Closed
+317,Philippines,Confucius Institute at Angeles University Foundation,angeles university foundation,Open
+318,Philippines,Confucius Institute at University of the Philippines,university of the philippines,Closed
+319,Philippines,Confucius Institute at Ateneo De Davao University,ateneo de davao university,Closed
+320,Poland,Confucius Institute in Krakow,"Krakow, Poland",Open
+321,Poland,Confucius Institute in Opole,"Opole, Poland",Closed
+322,Poland,Confucius Institute at Adam Mickiewicz University,adam mickiewicz university,Open
+323,Poland,Confucius Institute at the University of Wroclaw,the university of wroclaw,Closed
+324,Poland,Confucius Institute at University of Gdansk,university of gdansk,Closed
+325,Poland,Confucius Institute at Warsaw University of Technology,warsaw university of technology,Open
+326,Portugal,Confucius Institute at the University of Lisbon,the university of lisbon,Closed
+327,Portugal,Confucius Institute at the University of Minho,the university of minho,Open
+328,Portugal,Confucius Institute at University of Aveiro,university of aveiro,Open
+329,Portugal,Confucius Institute at University of Coimbra,university of coimbra,Closed
+330,Portugal,Confucius Institute at University of Porto,university of porto,Closed
+331,Romania,Confucius Institute at Lucian Blaga University of Sibiu,lucian blaga university of sibiu,Closed
+332,Romania,Confucius Institute at Babeay Bolyai University of Cluj-Napoca,babeay bolyai university of cluj-napoca,Closed
+333,Romania,Confucius Institute at Transilvania University of Brasov,transilvania university of brasov,Closed
+334,Romania,Confucius Institute at the University of Bucharest,the university of bucharest,Closed
+335,Russia,Confucius Institute at Far Eastern National University,far eastern national university,Closed
+336,Russia,Confucius Institute at Russian State University for the Humanities,russian state university for the humanities,Open
+337,Russia,Confucius Institute at Lomonosov Moscow State University,lomonosov moscow state university,Closed
+338,Russia,Confucius Institute at Saint-Petersburg State University,saint-petersburg state university,Closed
+339,Russia,Confucius Institute at Irkutsk State University,irkutsk state university,Closed
+340,Russia,Confucius Institute at Novosibirsk State University of Technology,novosibirsk state university of technology,Closed
+341,Russia,Confucius Institute at Kazan Federal State University,kazan federal state university,Closed
+342,Russia,Confucius Institute at Blagoveshchensk National Pedagogical University,blagoveshchensk national pedagogical university,Closed
+343,Russia,Confucius Institute at The Kalmyk State University,the kalmyk state university,Open
+344,Russia,Confucius Institute at Tomsk State University,tomsk state university,Closed
+345,Russia,Confucius Institute at Buryat State University,buryat state university,Closed
+346,Russia,Confucius Institute at Ural Federal University,ural federal university,Open
+347,Russia,Confucius Institute at Moscow State Linguistic University,moscow state linguistic university,Closed
+348,Russia,Confucius Institute at Ryazan State University,ryazan state university,Closed
+349,Russia,Confucius Institute at Nizhny Novgorod State Linguistic University,nizhny novgorod state linguistic university,Closed
+350,Russia,Confucius Institute at Volgograd State Pedagogical University,volgograd state pedagogical university,Open
+351,Russia,Confucius Institute at Amur State University of Humanities and Pedagogy,amur state university of humanities and pedagogy,Closed
+352,Russia,Confucius Institute at Novosibirsk State University,novosibirsk state university,Closed
+353,Russia,Confucius Institute at Krasnoyark State Pdeagogical University of V.P. Astafyev,krasnoyark state pdeagogical university of v.p. astafyev,Closed
+354,Rwanda,Confucius Institute at University of Rwanda-College of Education,university of rwanda-college of education,Closed
+355,Senegal,Confucius Institute at University of Dakar,university of dakar,Open
+356,Samoa,Confucius Institute at National University of Samoa,national university of samoa,Closed
+357,San Marino,Confucius Institute at University of the Republic of San Marino,university of the republic of san marino,Closed
+358,Sao Tome and Principe,Confucius Institute at Sao Tome and Principe University,sao tome and principe university,Closed
+359,Saudi Arabia,Confucius Institute at University of Jeddah,university of jeddah,Closed
+360,Serbia,Confucius Institute in Belgrade,"Belgrade, Serbia",Open
+361,Serbia,Confucius Institute at University of Novi Sad,university of novi sad,Closed
+362,Seychelles,Confucius Institute at University of Seychelles,university of seychelles,Closed
+363,Sierra Leone,Cofucius Institute at University of Sierra Leone,university of sierra leone,Closed
+364,Singapore,Confucius Institute at the Nanyang Technological University,the nanyang technological university,Closed
+365,Slovakia,Confucius Institute in Bratislava,"Bratislava, Slovakia",Closed
+366,Slovakia,Confucius Institute at Comenius University,comenius university,Open
+367,Slovakia,Confucius Institute for Business at Matej Bel University,matej bel university,Closed
+368,Slovenia,Confucius Institute at the University of Ljubljana,the university of ljubljana,Closed
+369,South Africa,Confucius Institute at Stellenbosch University,stellenbosch university,Closed
+370,South Africa,Confucius Institute at the University of Cape Town,the university of cape town,Closed
+371,South Africa,Confucius Institute at Rhodes University,rhodes university,Closed
+372,South Africa,Confucius Institute at Durban University of Technology,durban university of technology,Closed
+373,South Africa,Confucius Institute at the University of Johannesburg,the university of johannesburg,Closed
+374,South Africa,Confucius Institute of Traditional Chinese Medicine at the University of Western Cape,the university of western cape,Closed
+375,Spain,Confucius Institute in Madrid,"Madrid, Spain",Closed
+376,Spain,Confucius Institute at the University of Leon,the university of leon,Open
+377,Spain,Confucius Institute at the University of Granada,the university of granada,Open
+378,Spain,Confucius Institute at the University of Valencia,the university of valencia,Open
+379,Spain,Confucius Institute at The University of Las Palmas of Gran Canaria,the university of las palmas of gran canaria,Closed
+380,Spain,Confucius Institute in Barcelona,"Barcelona, Spain",Closed
+381,Spain,Confucius Institute at University of Castilla-la Mancha,university of castilla-la mancha,Closed
+382,Spain,Confucius Institute at University of Zaragoza,university of zaragoza,Closed
+383,Sri Lanka,Confucius Institute at the University of Kelaniya,the university of kelaniya,Closed
+384,Sri Lanka,Confucius Institute at Colombo University,colombo university,Closed
+385,Sudan,Confucius Institute at the University of Khartoum,the university of khartoum,Closed
+386,Suriname,Confucius Institute at the Anton de Kom University of Suriname,the anton de kom university of suriname,Closed
+387,Sweden,Confucius Institute in Lulea,"Lulea, Sweden",Closed
+388,Sweden,Borlange-Wuhan Friendship City Confucius Institute,"Borlange, Sweden",Closed
+389,Switzerland,Confucius Institute in Geneva,"Geneva, Switzerland",Open
+390,Switzerland,Confucius Institute at the University of Basel,the university of basel,Closed
+391,Tajikistan,Confucius Institute at Tajik National University,tajik national university,Closed
+392,Tajikistan,Confucius Institute at Mining metallurgical Institute of Tajikistan,mining metallurgical institute of tajikistan,Closed
+393,Tanzania,Confucius Institute at the University of Dodoma,the university of dodoma,Closed
+394,Tanzania,Confucius Institute at the University of Dar es Salaam,the university of dar es salaam,Closed
+395,Thailand,Confucius Institute at Chulalongkorn University,chulalongkorn university,Closed
+396,Thailand,Confucius Institute at Kasetsart University,kasetsart university,Closed
+397,Thailand,Confucius Institute at Khon Kaen University,khon kaen university,Closed
+398,Thailand,Confucius Institute at Mae Fah Luang University,mae fah luang university,Closed
+399,Thailand,Confucius Institute at Chiang Mai University,chiang mai university,Closed
+400,Thailand,Confucius Institute at Prince of Songkla University,prince of songkla university,Open
+401,Thailand,Confucius Institute at Mahasarakham University,mahasarakham university,Closed
+402,Thailand,Confucius Institute at Bansomdejchaopraya Rajabhat University,bansomdejchaopraya rajabhat university,Closed
+403,Thailand,Confucius Institute of Suan Dusit Rajabhat University at Suphanburi,university at suphanburi,Closed
+404,Thailand,"Confucius Institute at Phuket, Prince of Songkla University","phuket, prince of songkla university",Closed
+405,Thailand,Confucius Institute of Betong Municipality,"Betong, Thailand",Open
+406,Thailand,Confucius Institute at Burapha University,burapha university,Closed
+407,Thailand,Confucius Institute at Assumption University,assumption university,Open
+408,Thailand,Maritime Silk Road Confucius Institute,Thailand,Closed
+409,Thailand,Confucius Institute for Traditional Chinese Medicine at Huachiew Chalermprakiet,huachiew chalermprakiet,Closed
+410,Thailand,Maritime Silk Road Confucius Institute at Phranakhon Rajabhat University,phranakhon rajabhat university,Closed
+411,Togo,Confucius Institute at University of Lome,university of lome,Closed
+412,Trinidad and Tobage,"Confucius Institute at the University of the West Indies, St. Augustine Campus","the university of the west indies, st. augustine campus",Open
+413,Tunisia,Confucius Institute at University of Carthage,university of carthage,Closed
+414,Turkey,Confucius Institute at Bogazici University,bogazici university,Open
+415,Turkey,Confucius Institute at Middle East Technical University,middle east technical university,Closed
+416,Turkey,Confucius Institute at Okan University,okan university,Closed
+417,Turkey,Confucius Institute at Yeditepe University,yeditepe university,Closed
+418,Ukraine,Confucius Institute at Luhansk National Pedagogical University,luhansk national pedagogical university,Open
+419,Ukraine,Confucius Institute at South Ukranian National Pedagogical University,south ukranian national pedagogical university,Closed
+420,Ukraine,Confucius Institute at National Taras Shevchenko University of Kyiv,national taras shevchenko university of kyiv,Closed
+421,Ukraine,Confucius Institute at Kharkiv State University,kharkiv state university,Closed
+422,Ukraine,Confucius Institute at Kiev State Linguistic University,kiev state linguistic university,Closed
+423,Ukraine,Confucius Institute at Vinnytsia National Technical University,vinnytsia national technical university,Closed
+424,Uganda,Confucius Institute at Makerere University,makerere university,Closed
+425,United Arab Emirates,Confucius Institute at Zayed University,zayed university,Closed
+426,United Arab Emirates,Confucius Institute University of Dubai,University of Dubai,Closed
+427,United Kingdom,Confucius Institute at University of Liverpool,university of liverpool,Open
+428,United Kingdom,Confucius Institute for Scotland in the University of Edinburgh,University of Edinburgh,Closed
+429,United Kingdom,Confucius Institute at UCL Institute of Education,ucl institute of education,Closed
+430,United Kingdom,Conrfucius Institute at the University of Aberdeen,the university of aberdeen,Open
+431,United Kingdom,Confucius Institute at Edge Hill university,edge hill university,Closed
+432,United Kingdom,Confucius Institute at De Montfort University,de montfort university,Closed
+433,United Kingdom,Business Confucius Institute at the University of Leeds,the university of leeds,Closed
+434,United Kingdom,"Confucius Institute for Dance and Performance at Goldsmiths, University of London","goldsmiths, university of london",Closed
+435,United Kingdom,Confucius Institute for Business London,"London, United Kingdon",Open
+436,United Kingdom,Confucius Institute at Lancaster University,lancaster university,Closed
+437,United Kingdom,"Confucius Institute for Traditional Chinese Medicine, London","London, United Kingdon",Closed
+438,United Kingdom,Confucius Institute at the University of Manchester,the university of manchester,Open
+439,United Kingdom,Confucius Institute at the University of Nottingham,the university of nottingham,Open
+440,United Kingdom,Confucius Institute at the University of Sheffield,the university of sheffield,Open
+441,United Kingdom,Confucius Institute at Cardiff University,cardiff university,Open
+442,United Kingdom,Confucius Institute at the University of Central Lancashire,the university of central lancashire,Closed
+443,United Kingdom,Confucius Institute at the University of Wales Trinity Saint David,the university of wales trinity saint david,Closed
+444,United Kingdom,Confucius Institute at the University of Glasgow,the university of glasgow,Closed
+445,United Kingdom,Confucius Institute at the University of Southampton,the university of southampton,Closed
+446,United Kingdom,Confucius Institute at Ulster University,ulster university,Open
+447,United Kingdom,Confucius Institute for Scotland's Schools,United Kingdom,Open
+448,United Kingdom,Scottish Confucius Institute for Business and Communication at Heriot Watt University,heriot watt university,Closed
+449,United Kingdom,Confucius Institute at Newcastle University,newcastle university,Closed
+450,United Kingdom,Confucius Institute at Bangor University,bangor university,Open
+451,United Kingdom,Confucius Institute at the University of Hull,the university of hull,Closed
+452,United Kingdom,Confucius Institute at Queen Mary University of London,queen mary university of london,Closed
+453,United Kingdom,Confucius Institute at Coventry University,coventry university,Closed
+454,United Kingdom,Confucius Institute at Oxford Brooks University,oxford brooks university,Closed
+455,United Kingdom,Confucius Institute of Science and Technology Innovation at the University of Huddersfi,the university of huddersfi,Closed
+456,United States,Confucius Institute at the University of Maryland,the university of maryland,Closed
+457,United States,Confucius Institute at the College of William & Mary,the college of william & mary,Closed
+458,United States,Confucius Institute at China Institute,china institute,Closed
+459,United States,Confucius Institute at the University of Kansas,the university of kansas,Closed
+460,United States,Confucius Institute at the University of Iowa,the university of iowa,Closed
+461,United States,Confucius Institute at Michigan State University,michigan state university,Closed
+462,United States,Confucius Institute at the University of Oklahoma,the university of oklahoma,Open
+463,United States,Confucius Institute at the University of Missouri,the university of missouri,Closed
+464,United States,Confucius Institute at Bryant University,bryant university,Open
+465,United States,"Confucius Institute at the University of California, Los Angeles","the university of california, los angeles",Closed
+466,United States,"Confucius Institute at University of California, Davis","university of california, davis",Closed
+467,United States,Confucius Institute at Portland State University,portland state university,Closed
+468,United States,Confucius Institute at Community College of Denver,community college of denver,Closed
+469,United States,Confucius Institute at New Mexico State University,new mexico state university,Closed
+470,United States,Confucius Institute at the University of Nebraska-Lincoln,the university of nebraska-lincoln,Closed
+471,United States,Confucius Institute at the University of Pittsburgh,the university of pittsburgh,Closed
+472,United States,Confucius Institute at the University of Memphis,the university of memphis,Closed
+473,United States,Confucius Institute at Wayne State University,wayne state university,Closed
+474,United States,"Confucius Institute at Rutgers, the State University of New Jersey","rutgers, the state university of new jersey",Closed
+475,United States,Confucius Institute at the University of Central Arkansas,the university of central arkansas,Closed
+476,United States,Confucius Institute at Valparaiso University,valparaiso university,Closed
+477,United States,Confucius Institute at Miami University,miami university,Open
+478,United States,Confucius Institute at the University of Wisconsin-Platteville,the university of wisconsin-platteville,Closed
+479,United States,Confucius Institute at Troy University,troy university,Closed
+480,United States,Confucius Institute at the University of Utah,the university of utah,Open
+481,United States,Confucius Institute at the University of Arizona,the university of arizona,Closed
+482,United States,Confucius Institute at Xavier University of Louisiana,xavier university of louisiana,Closed
+483,United States,Confucius Institute at Houston Independent School District,houston independent school district,Closed
+484,United States,Confucius Institute at Broward County Public Schools,broward county public schools,Closed
+485,United States,Confucius Institute at East Central Ohio Educational Service Center,east central ohio educational service center,Closed
+486,United States,Confucius Institute at Colorado State University,colorado state university,Closed
+487,United States,Confucius Institute at Old Dominion University,old dominion university,Closed
+488,United States,Confucius Institute at Central Connecticut State University,central connecticut state university,Closed
+489,United States,Confucius Institute at Texas Southern University,texas southern university,Open
+490,United States,Confucius Institute at Webster University,webster university,Open
+491,United States,Confucius Institute in Atlanta,"Atlanta, United States",Closed
+492,United States,Confucius Institute at the University of Akron,the university of akron,Open
+493,United States,Confucius Institute at the University of Montana,the university of montana,Open
+494,United States,Confucius Institute at the University of South Carolina,the university of south carolina,Closed
+495,United States,Confucius Institute at Cleveland State University,cleveland state university,Closed
+496,United States,Confucius Institute at the University of Toledo,the university of toledo,Open
+497,United States,Confucius Institute at Alfred University,alfred university,Closed
+498,United States,Confucius Institute at Stony Brook University,stony brook university,Closed
+499,United States,Confucius Institute at George Mason University,george mason university,Closed
+500,United States,Confucius Institute at Presbyterian College,presbyterian college,Closed
+501,United States,Confucius Institute at Western Michigan University,western michigan university,Open
+502,United States,Confucius Institute of the State of Washington,"Washington State, United States",Closed
+503,United States,Confucius Institute at the George Washington University,the george washington university,Closed
+504,United States,Confucius Institute at the University of Idaho,the university of idaho,Closed
+505,United States,Confucius Institute at the University of Southern Maine,the university of southern maine,Closed
+506,United States,"Confucius Institute at the University at Albany, State University of New York","the university at albany, state university of new york",Closed
+507,United States,Confucius Institute at St. Cloud State University,st. cloud state university,Closed
+508,United States,Confucius Institute at Middle Tennessee University,middle tennessee university,Open
+509,United States,Confucius Institute at Wesleyan College,wesleyan college,Closed
+510,United States,"Confucius Institute at State College of Optometry, State University of New York","state college of optometry, state university of new york",Closed
+511,United States,Confucius Institute in Chicago,"Chicago, United States",Open
+512,United States,Confucius Institute for Business at State University of New York,state university of new york,Closed
+513,United States,Confucius Institute at Columbia University,columbia university,Closed
+514,United States,Confucius Institute at State University of New York at Buffalo,state university of new york at buffalo,Closed
+515,United States,Confucius Institute of Chinese Opera at the State University of New York at Binghamton,the state university of new york at binghamton,Closed
+516,United States,Confucius Institute at Stanford University,stanford university,Open
+517,United States,Confucius Institute at the University of Kentucky,the university of kentucky,Closed
+518,United States,Confucius Institute at the University of Delaware,the university of delaware,Closed
+519,United States,Confucius Institute at the University of New Hampshire,the university of new hampshire,Closed
+520,United States,Confucius Institute at Georgia State University,georgia state university,Closed
+521,United States,Confucius Institute at University of Alaska Anchorage,university of alaska anchorage,Closed
+522,United States,Confucius Institute at Northern State University,northern state university,Closed
+523,United States,Confucius Institute at Tufts University,tufts university,Closed
+524,United States,Confucius Institute at Kansas State University,kansas state university,Open
+525,United States,Confucius Institute at Alabama A&M University,alabama a&m university,Closed
+526,United States,Confucius Institute at Temple University,temple university,Closed
+527,United States,Confucius Institute at West Virginia University,west virginia university,Closed
+528,United States,Confucius Institute at Southern Utah University,southern utah university,Closed
+529,United States,Confucius Institute at New Jersey City University,new jersey city university,Closed
+530,United States,Confucius Institute at Clark County School District,clark county school district,Closed
+531,United States,Confucius Institute at Davis School Disrict,davis school disrict,Closed
+532,United States,Confucius Institute at Savannah State University,savannah state university,Closed
+533,United States,"Confucius Institute at the University of California, Santa Barbara","the university of california, santa barbara",Closed
+534,United States,Confucius Institute at Northwest Nazarene University,northwest nazarene university,Closed
+535,United States,Confucius Institute at the University of North Carolina at Charlotte,the university of north carolina at charlotte,Closed
+536,United States,New York Confucius Institute for Global Finance at Baruch College,baruch college,Closed
+537,United States,Confucius Institute at Medga Evers College The City University of New York,medga evers college the city university of new york,Closed
+538,United States,Confucius Institute of Western Kentucky,"Kentucky, United States",Closed
+539,United States,Confucius Institute in San Diego at San Diego Global Educational Institute,san diego global educational institute,Closed
+540,United States,Miami Confucius Institute for Business,"Miami, United States",Closed
+541,Uruguay,"Confucius Institute at the Universidad de la Republica, Uruguay","the universidad de la republica, uruguay",Closed
+542,Uzbekistan,Confucius Institute in Tashkent State Institute of Oriental Studies,Tashkent State Institute,Closed
+543,Uzbekistan,Confucius Institute at Samarkand State Institute of Foreign Languages,samarkand state institute of foreign languages,Open
+544,Venezuela,Confucius Institute at Universidad Bolivariana de Venezuela,universidad bolivariana de venezuela,Closed
+545,Venezuela,Confucius Institute at the Bolivarian University of Venezuela in Caracas,the bolivarian university of venezuela in caracas,Closed
+546,Vietnam,Confucius Institute at Hanoi University,hanoi university,Closed
+547,Zambia,Confucius Institute at University of Zambia,university of zambia,Closed
+548,Zimbabwe,Confucius Institute at the University of Zimbabwe,the university of zimbabwe,Closed

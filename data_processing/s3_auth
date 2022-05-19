@@ -1,0 +1,6 @@
+# authentication for s3 account 
+# for read access, you need the the stored pathway to the files
+
+cities = 
+countries = 
+

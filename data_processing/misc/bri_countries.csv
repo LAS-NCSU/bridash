@@ -1,0 +1,251 @@
+name,country_id,bri_partner
+Afghanistan,192,2013
+Albania,164,2017
+Algeria,125,2018
+American Samoa,1,2018
+Andorra,154,
+Angola,96,2018
+Anguilla,28,
+Antarctica,25,
+Antigua and Barbuda,29,2018
+Argentina,15,
+Armenia,209,2015
+Aruba,30,
+Australia,218,
+Austria,165,unknown
+Azerbaijan,210,2015
+Bahamas,31,
+Bahrain,193,2018
+Bangladesh,233,2019
+Barbados,32,2019
+Belarus,182,2013
+Belgium,160,
+Belize,33,
+Benin,126,unknown
+Bermuda,34,
+Bhutan,234,
+Bolivia,20,2018
+Bonaire,35,
+Bosnia and Herzegovina,166,2017
+Botswana,97,
+Bouvet Island,94,
+Brazil,21,
+British Indian Ocean Territory,116,
+British Virgin Islands,36,
+Brunei Darussalam,236,2018
+Bulgaria,183,2015
+Burkina Faso,70,
+Burundi,98,2018
+Côte d'Ivoire,72,
+Cabo Verde,71,2018
+Cambodia,226,2013
+Cameroon,127,2015
+Canada,14,
+Canarias,249,
+Cayman Islands,37,
+Central African Republic,128,
+Chad,129,2018
+Chile,17,2018
+China,235,2013
+Christmas Island,214,
+Cocos Islands,215,
+Colombia,38,
+Comoros,99,unknown
+Congo,100,unknown
+Congo DRC,101,2021
+Cook Islands,3,2018
+Costa Rica,39,2018
+Croatia,167,2017
+Cuba,40,2019
+Curacao,41,
+Cyprus,138,2019
+Czech Republic,168,2015
+Denmark,169,
+Djibouti,139,2018
+Dominica,42,unknown
+Dominican Republic,43,
+Ecuador,18,2018
+Egypt,140,2016
+El Salvador,11,2018
+Equatorial Guinea,130,2019
+Eritrea,141,
+Estonia,184,2017
+Eswatini,112,
+Ethiopia,142,2018
+Falkland Islands,16,
+Faroe Islands,92,
+Fiji,26,2018
+Finland,185,
+France,156,
+French Guiana,44,
+French Polynesia,4,
+French Southern Territories,117,
+Gabon,102,2018
+Gambia,73,2018
+Georgia,186,2016
+Germany,161,
+Ghana,74,2018
+Gibraltar,75,
+Glorioso Islands,122,
+Greece,143,2018
+Greenland,85,
+Grenada,45,2018
+Guadeloupe,46,
+Guam,241,
+Guatemala,12,
+Guernsey,86,
+Guinea,76,2018
+Guinea-Bissau,77,
+Guyana,47,2018
+Haiti,48,
+Heard Island and McDonald Islands,118,
+Honduras,49,
+Hungary,170,2015
+Iceland,91,
+India,194,
+Indonesia,216,2015
+Iran,195,2018
+Iraq,144,2015
+Ireland,87,
+Isle of Man,88,
+Israel,145,
+Italy,171,2019
+Jamaica,50,2019
+Japan,242,
+Jersey,89,
+Jordan,146,
+Juan De Nova Island,106,
+Kazakhstan,211,2015
+Kenya,103,2017
+Kiribati,131,2020
+Kosovo,250,
+Kuwait,196,2018
+Kyrgyzstan,212,2013
+Laos,227,2018
+Latvia,187,2016
+Lebanon,147,2017
+Lesotho,104,2019
+Liberia,78,2019
+Libya,132,2018
+Liechtenstein,157,
+Lithuania,188,2017
+Luxembourg,162,2019
+Madagascar,119,2017
+Malawi,105,
+Malaysia,228,2017
+Maldives,197,2017
+Mali,79,2019
+Malta,133,2018
+Marshall Islands,243,
+Martinique,51,
+Mauritania,80,2018
+Mauritius,120,
+Mayotte,121,
+Mexico,13,
+Micronesia,244,2018
+Moldova,189,2013
+Monaco,158,
+Mongolia,239,2013
+Montenegro,172,2017
+Montserrat,52,
+Morocco,81,2017
+Mozambique,107,2018
+Myanmar,229,2016
+Namibia,108,2018
+Nauru,219,
+Nepal,198,2017
+Netherlands,163,
+New Caledonia,220,
+New Zealand,95,2017
+Nicaragua,53,
+Niger,134,unknown
+Nigeria,135,2018
+Niue,5,2018
+Norfolk Island,221,
+North Korea,240,
+North Macedonia,178,2013
+Northern Mariana Islands,245,
+Norway,180,
+Oman,199,2018
+Pakistan,200,2013
+Palau,246,
+Palestinian Territory,148,
+Panama,54,2017
+Papua New Guinea,222,2016
+Paraguay,22,
+Peru,19,2019
+Philippines,237,2017
+Pitcairn,6,
+Poland,173,2015
+Portugal,82,2018
+Puerto Rico,55,
+Qatar,201,2019
+Réunion,123,
+Romania,190,2015
+Russian Federation,247,unknown
+Rwanda,109,2018
+Saba,56,
+Saint Barthelemy,57,
+Saint Eustatius,58,
+Saint Helena,27,
+Saint Kitts and Nevis,59,
+Saint Lucia,60,
+Saint Martin,61,
+Saint Pierre and Miquelon,62,
+Saint Vincent and the Grenadines,63,
+Samoa,7,
+San Marino,174,
+Sao Tome and Principe,110,
+Saudi Arabia,202,2018
+Senegal,83,2018
+Serbia,175,2015
+Seychelles,124,2018
+Sierra Leone,84,2018
+Singapore,230,2018
+Sint Maarten,64,
+Slovakia,176,
+Slovenia,177,
+Solomon Islands,223,2019
+Somalia,203,2015
+South Africa,111,2015
+South Georgia and South Sandwich Islands,24,
+South Korea,238,2018
+South Sudan,149,2018
+Spain,248,
+Sri Lanka,204,2017
+Sudan,150,2018
+Suriname,65,2018
+Svalbard,93,
+Sweden,181,
+Switzerland,159,
+Syria,151,
+Tajikistan,205,2018
+Tanzania,113,2018
+Thailand,231,2014
+Timor-Leste,217,
+Togo,136,2018
+Tokelau,8,
+Tonga,9,2018
+Trinidad and Tobago,66,2018
+Tunisia,137,2018
+Turkey,152,2015
+Turkmenistan,206,
+Turks and Caicos Islands,67,
+Tuvalu,224,
+Uganda,153,2018
+Ukraine,191,2017
+United Arab Emirates,207,2018
+United Kingdom,90,
+United States,155,
+United States Minor Outlying Islands,2,
+Uruguay,23,2018
+US Virgin Islands,68,
+Uzbekistan,213,2015
+Vanuatu,225,2018
+Vatican City,179,
+Venezuela,69,2018
+Vietnam,232,2017
+Wallis and Futuna,10,
+Yemen,208,2017
+Zambia,114,2018
+Zimbabwe,115,2018
