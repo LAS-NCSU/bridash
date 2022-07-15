@@ -68,7 +68,6 @@
     "Svalbard and Jan Mayen Islands" : "Svalbard",
     "Swaziland" : "Eswatini", 
     "Syrian Arab Republic" : "Syria",
-    "Taiwan" : "China", 
     "Trinidad & Tobago" : "Trinidad and Tobago", 
     "Trinidad and Tobage" : "Trinidad and Tobago", 
     "United Kingdom of Great Britain and Northern Ireland" : "United Kingdom",
