@@ -76,6 +76,15 @@ viz1 = cities.merge(ex, left_on=['country_id', 'id'], right_on=['country_id', 'g
 ```
 As an example of the geocoding scheme, a sample visualization template has been compiled. Visit [financial_viz.ipynb](../data_processing/geoaid/financial_viz.ipynb).
 
+### Exporting 
+
+To export shape data, utilize geopandas to write files as a shapefile, geojson or csv. 
+```
+countries.to_csv("../../data_final/countries.csv", index=False)
+countries.to_file("/Documents/countries.shp")
+countries.to_file("/Documents/countries.geojson", driver='GeoJSON')
+```
+
 ### Sources 
 
 - Country data is sourced from open source [ArcGIS products](https://opendata.arcgis.com/datasets/2b93b06dc0dc4e809d3c8db5cb96ba69_0.geojson).
