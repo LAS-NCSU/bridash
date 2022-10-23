@@ -2,6 +2,8 @@
 
 The following data has been processed and geocoded. This data is currently in use in visualizations and modelling. 
 
+Preprocessing work was done to harmonize dataset to follow consistant geocoding schemes. 
+
 ## BRI Financial Expenditures 
 __Data Files:__ [AidData_v2.0.csv](data_final/AidData_v2.0.csv), [AidData_v1.0.xlsx](data_final/AidData_v1.0.xlsx)
 
@@ -28,6 +30,12 @@ All datasets are geocoded with this scheme to save space and ensure consistency 
 __Data Files:__ [chinese_immigration.csv](data_final/chinese_immigration.csv), [us_immigration.csv](data_final/us_immigration.csv)
 
 Understanding the movement of people is influential in understanding people's influence. A dataset of Chinese persons living internationally has been compiled by destination country. For comparison, a dataset of US persons living internationally has also been produced. 
+
+## Pew Public Opinion
+__Data Files:__ [pew.csv](data_final/pew.csv)
+
+To support evidence of changes to local market concentrations and to provide insight into the perception of chinese influence, public opinion data has been collected. Pew provides public opinion data dating 20 years. 2017-2021 has been harmonized and visualized. More details on public opinion variables available coming soon.
+
 
 ## World Statistics: Population, GDP, GDP to Debt 
 __Data Files:__ [world_stats.csv](data_final/world_stats.csv)
